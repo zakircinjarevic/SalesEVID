@@ -1,0 +1,380 @@
+######### SolumaScanService - Log File Started @ 8.2.2018 9:49:55 #########
+08.02.2018  9:49:55  :  ERROR :  INSERT INTO [Firma] ([NazivFirme], [Djelatnost], [BrojZaposlenih], [KontaktOsoba], [BrojTelefona], [Pozvan], [Cekanje], [UgovorOstvaren], [Zavrseno], [Napomena]) VALUES (N'Config d.o.o',N'Graficki dizajn',N'12',N'Harsen',N'062 290 305',N'True',N'False',N'True',N'True',N'Napravili ponudu, prodali masinu')
+08.02.2018  9:49:55  :  ERROR :  Cannot insert the value NULL into column 'FirmaID', table 'SalesEVID.dbo.Firma'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+08.02.2018  9:54:55  :  ERROR :  INSERT INTO [Firma] ([NazivFirme], [Djelatnost], [BrojZaposlenih], [KontaktOsoba], [BrojTelefona], [Pozvan], [Cekanje], [UgovorOstvaren], [Zavrseno], [Napomena]) VALUES (N'temp',N'nesto',N'2',N'temp',N'temp',N'True',N'False',N'True',N'True',N'')
+08.02.2018  9:54:55  :  ERROR :  Cannot insert the value NULL into column 'FirmaID', table 'SalesEVID.dbo.Firma'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+08.02.2018  10:19:50  :  ERROR :  UPDATE [Firma] SET NazivFirme='farmaceut', Djelatnost='farmaceut', BrojZaposlenih='186', [KontaktOsoba], BrojTelefona='Hakija', Pozvan='062290305', Cekanje='False', UgovorOstvaren='False', Zavrseno='False', Napomena='True' WHERE FirmaID = True
+08.02.2018  10:19:50  :  ERROR :  Incorrect syntax near ','.
+08.02.2018  11:40:11  :  ERROR :  UPDATE [Firma] SET NazivFirme='farmaceut', Djelatnost='farmaceut', BrojZaposlenih='186', [KontaktOsoba], BrojTelefona='Hakija', Pozvan='062290305', Cekanje='False', UgovorOstvaren='False', Zavrseno='False', Napomena='True' WHERE FirmaID = True
+08.02.2018  11:40:11  :  ERROR :  Incorrect syntax near ','.
+08.02.2018  11:40:58  :  ERROR :  UPDATE [Firma] SET NazivFirme='farmaceut', Djelatnost='farmaceut', BrojZaposlenih='186', [KontaktOsoba], BrojTelefona='Hakija', Pozvan='062290305', Cekanje='True', UgovorOstvaren='False', Zavrseno='False', Napomena='True' WHERE FirmaID = True
+08.02.2018  11:40:58  :  ERROR :  Incorrect syntax near ','.
+08.02.2018  11:42:44  :  ERROR :  UPDATE [Firma] SET NazivFirme='farmaceut', Djelatnost='farmaceut', BrojZaposlenih='186', [KontaktOsoba], BrojTelefona='Hakija', Pozvan='062290305', Cekanje='False', UgovorOstvaren='True', Zavrseno='False', Napomena='True' WHERE FirmaID = True
+08.02.2018  11:42:44  :  ERROR :  Incorrect syntax near ','.
+08.02.2018  11:43:36  :  ERROR :  UPDATE [Firma] SET NazivFirme='ne znam', Djelatnost='ne znam', BrojZaposlenih='3', [KontaktOsoba], BrojTelefona='Mufid', Pozvan='062213532', Cekanje='False', UgovorOstvaren='True', Zavrseno='False', Napomena='False' WHERE FirmaID = False
+08.02.2018  11:43:36  :  ERROR :  Incorrect syntax near ','.
+08.02.2018  11:51:27  :  ERROR :  UPDATE [Firma] SET NazivFirme='farmaceut', Djelatnost='farmaceut', BrojZaposlenih='186', [KontaktOsoba], BrojTelefona='Hakija', Pozvan='062290305', Cekanje='True', UgovorOstvaren='True', Zavrseno='True', Napomena='True' WHERE FirmaID = True
+08.02.2018  11:51:27  :  ERROR :  Incorrect syntax near ','.
+08.02.2018  11:55:37  :  ERROR :  UPDATE [Firma] SET NazivFirme='s', Djelatnost='s', BrojZaposlenih='2', [KontaktOsoba], BrojTelefona='s', Pozvan='s', Cekanje='True', UgovorOstvaren='True', Zavrseno='False', Napomena='True' WHERE FirmaID = True
+08.02.2018  11:55:37  :  ERROR :  Incorrect syntax near ','.
+08.02.2018  11:56:03  :  ERROR :  UPDATE [Firma] SET NazivFirme='s', Djelatnost='s', BrojZaposlenih='2', [KontaktOsoba], BrojTelefona='s', Pozvan='s', Cekanje='False', UgovorOstvaren='True', Zavrseno='False', Napomena='True' WHERE FirmaID = True
+08.02.2018  11:56:03  :  ERROR :  Incorrect syntax near ','.
+12.02.2018  8:18:41  :  ERROR :  
+12.02.2018  8:18:41  :  ERROR :  A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.)
+12.02.2018  8:18:41  :  ERROR :  
+12.02.2018  8:18:41  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  10:29:36  :  ERROR :  UPDATE [Firma] SET NazivFirme='asd', Djelatnost='asd', BrojZaposlenih='0', [KontaktOsoba], BrojTelefona='asd', Pozvan='asd', Cekanje='False', UgovorOstvaren='False', Zavrseno='False', Napomena='False' WHERE FirmaID = False
+13.02.2018  10:29:36  :  ERROR :  Incorrect syntax near ','.
+13.02.2018  10:30:50  :  ERROR :  UPDATE [Firma] SET NazivFirme='asd', Djelatnost='asd', BrojZaposlenih='0', [KontaktOsoba], BrojTelefona='asd', Pozvan='asd', Cekanje='False', UgovorOstvaren='False', Zavrseno='False', Napomena='False' WHERE FirmaID = False
+13.02.2018  10:30:50  :  ERROR :  Incorrect syntax near ','.
+13.02.2018  13:28:40  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:28:40  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:28:40  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:28:40  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:30:50  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:30:50  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:30:50  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:30:50  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:32:12  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:32:12  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:32:12  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:32:12  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:32:45  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:32:45  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:32:45  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:32:45  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:34:39  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:34:39  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:34:39  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:34:39  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:35:25  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:35:25  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:35:25  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:35:25  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:36:44  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:36:44  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:36:44  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:36:44  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:38:36  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:38:36  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:38:36  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:38:36  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:39:55  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:39:55  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:39:55  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:39:55  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:42:00  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:42:00  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:42:00  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:42:00  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:47:16  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:47:16  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:47:16  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:47:16  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:49:00  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:49:00  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:49:00  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:49:00  :  ERROR :  Object reference not set to an instance of an object.
+13.02.2018  13:50:06  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:50:06  :  ERROR :  Ambiguous column name 'FirmaID'.
+13.02.2018  13:50:06  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+13.02.2018  13:50:06  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  8:05:55  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  8:05:55  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  8:05:55  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  8:05:55  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  8:38:47  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  8:38:47  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  8:38:47  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  8:38:47  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  8:40:46  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  8:40:46  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  8:40:46  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  8:40:46  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:02:14  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:02:14  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:02:14  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:02:14  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:10:32  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:10:32  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:10:32  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:10:32  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:12:44  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:12:44  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:12:44  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:12:44  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:13:00  :  ERROR :  UPDATE [Proizvod] SET NazivProizvoda='Nesto', Prodaja='True', Renta='False',DuzinaUgovora='0', ZaradaOdProdaje='3000', ZaradaOdProdaje='0', FirmaID='-1' WHERE ProizvodID = 0
+15.02.2018  9:13:00  :  ERROR :  The column name 'ZaradaOdProdaje' is specified more than once in the SET clause or column list of an INSERT. A column cannot be assigned more than one value in the same clause. Modify the clause to make sure that a column is updated only once. If this statement updates or inserts columns into a view, column aliasing can conceal the duplication in your code.
+15.02.2018  9:13:00  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:13:00  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:13:00  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:13:00  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:13:04  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:13:04  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:13:04  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:13:04  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:13:11  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:13:11  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:13:11  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:13:11  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:18:15  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:18:15  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:18:15  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:18:15  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:18:40  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:18:40  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:18:40  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:18:40  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:20:38  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:20:38  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:20:38  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:20:38  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:21:37  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:21:37  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:21:37  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:21:37  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:21:52  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:21:52  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:21:52  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:21:52  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:22:46  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:22:46  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:22:46  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:22:46  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:22:51  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:22:51  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:22:51  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:22:51  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:25:22  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:25:22  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:25:22  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:25:22  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:25:25  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:25:25  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:25:25  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:25:25  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:29:59  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:29:59  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:29:59  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:29:59  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:33:24  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:33:24  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:33:24  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:33:24  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:34:06  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:34:06  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:34:06  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:34:06  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:37:43  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:37:43  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:37:43  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:37:43  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:38:25  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:38:25  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:38:25  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:38:25  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:38:37  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:38:37  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:38:38  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:38:38  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:38:54  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:38:54  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:38:54  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:38:54  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:39:16  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:39:16  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:39:16  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:39:16  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:39:57  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:39:57  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:39:57  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:39:57  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:40:01  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:40:01  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:40:01  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:40:01  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:40:04  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:40:04  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:40:04  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:40:04  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:40:16  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:40:16  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:40:16  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:40:16  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:40:20  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:40:20  :  ERROR :  Ambiguous column name 'FirmaID'.
+15.02.2018  9:40:20  :  ERROR :   SELECT FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:40:20  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  9:45:27  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:45:27  :  ERROR :  KontaktOsoba
+15.02.2018  9:45:31  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:45:31  :  ERROR :  KontaktOsoba
+15.02.2018  9:45:43  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:45:43  :  ERROR :  KontaktOsoba
+15.02.2018  9:46:09  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:46:09  :  ERROR :  KontaktOsoba
+15.02.2018  9:46:33  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:46:33  :  ERROR :  KontaktOsoba
+15.02.2018  9:46:34  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:46:34  :  ERROR :  KontaktOsoba
+15.02.2018  9:46:59  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+15.02.2018  9:46:59  :  ERROR :  KontaktOsoba
+15.02.2018  10:21:57  :  ERROR :  UPDATE [Proizvod] SET NazivProizvoda='nesto', Prodaja='True', Renta='False',DuzinaUgovora='0', ZaradaOdProdaje='200', ZaradaOdProdaje='0', FirmaID='25' WHERE ProizvodID = 2
+15.02.2018  10:21:57  :  ERROR :  The column name 'ZaradaOdProdaje' is specified more than once in the SET clause or column list of an INSERT. A column cannot be assigned more than one value in the same clause. Modify the clause to make sure that a column is updated only once. If this statement updates or inserts columns into a view, column aliasing can conceal the duplication in your code.
+15.02.2018  10:22:29  :  ERROR :  UPDATE [Proizvod] SET NazivProizvoda='nesto', Prodaja='True', Renta='False',DuzinaUgovora='0', ZaradaOdProdaje='200', ZaradaOdProdaje='0', FirmaID='25' WHERE ProizvodID = 2
+15.02.2018  10:22:29  :  ERROR :  The column name 'ZaradaOdProdaje' is specified more than once in the SET clause or column list of an INSERT. A column cannot be assigned more than one value in the same clause. Modify the clause to make sure that a column is updated only once. If this statement updates or inserts columns into a view, column aliasing can conceal the duplication in your code.
+15.02.2018  13:55:57  :  ERROR :   SELECT * FROM User
+15.02.2018  13:55:57  :  ERROR :  Incorrect syntax near the keyword 'User'.
+15.02.2018  13:55:57  :  ERROR :   SELECT * FROM User
+15.02.2018  13:55:57  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  13:57:12  :  ERROR :   SELECT * FROM User
+15.02.2018  13:57:12  :  ERROR :  Incorrect syntax near the keyword 'User'.
+15.02.2018  13:57:12  :  ERROR :   SELECT * FROM User
+15.02.2018  13:57:12  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  14:01:43  :  ERROR :  DELETE FROM Firma WHERE FirmaID = 26
+15.02.2018  14:01:43  :  ERROR :  The DELETE statement conflicted with the REFERENCE constraint "FK_Proizvod_Firma". The conflict occurred in database "SalesEVID", table "dbo.Proizvod", column 'FirmaID'.
+The statement has been terminated.
+15.02.2018  14:04:38  :  ERROR :   SELECT * FROM User
+15.02.2018  14:04:38  :  ERROR :  Incorrect syntax near the keyword 'User'.
+15.02.2018  14:04:38  :  ERROR :   SELECT * FROM User
+15.02.2018  14:04:38  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  14:15:59  :  ERROR :   SELECT * FROM User
+15.02.2018  14:15:59  :  ERROR :  Incorrect syntax near the keyword 'User'.
+15.02.2018  14:15:59  :  ERROR :   SELECT * FROM User
+15.02.2018  14:15:59  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  14:16:37  :  ERROR :   SELECT * FROM User
+15.02.2018  14:16:37  :  ERROR :  Incorrect syntax near the keyword 'User'.
+15.02.2018  14:16:37  :  ERROR :   SELECT * FROM User
+15.02.2018  14:16:37  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  14:17:33  :  ERROR :   SELECT * FROM User
+15.02.2018  14:17:33  :  ERROR :  Incorrect syntax near the keyword 'User'.
+15.02.2018  14:17:33  :  ERROR :   SELECT * FROM User
+15.02.2018  14:17:33  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  14:18:41  :  ERROR :   SELECT * FROM User
+15.02.2018  14:18:41  :  ERROR :  Incorrect syntax near the keyword 'User'.
+15.02.2018  14:18:41  :  ERROR :   SELECT * FROM User
+15.02.2018  14:18:41  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  14:21:53  :  ERROR :   SELECT * FROM User
+15.02.2018  14:21:53  :  ERROR :  Incorrect syntax near the keyword 'User'.
+15.02.2018  14:21:53  :  ERROR :   SELECT * FROM User
+15.02.2018  14:21:53  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  14:27:45  :  ERROR :   SELECT * FROM User
+15.02.2018  14:27:45  :  ERROR :  Incorrect syntax near the keyword 'User'.
+15.02.2018  14:27:45  :  ERROR :   SELECT * FROM User
+15.02.2018  14:27:45  :  ERROR :  Object reference not set to an instance of an object.
+15.02.2018  15:49:40  :  ERROR :  UPDATE [Proizvod] SET NazivProizvoda='bizhub C227', Prodaja='True', Renta='False',DuzinaUgovora='0', ZaradaOdProdaje='3700', ZaradaOdRente='0', FirmaID='-1' WHERE ProizvodID = 10
+15.02.2018  15:49:40  :  ERROR :  The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Proizvod_Firma". The conflict occurred in database "SalesEVID", table "dbo.Firma", column 'FirmaID'.
+The statement has been terminated.
+20.02.2018  8:15:33  :  ERROR :  
+20.02.2018  8:15:33  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  8:15:33  :  ERROR :  
+20.02.2018  8:15:33  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  8:40:05  :  ERROR :  
+20.02.2018  8:40:05  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  8:40:05  :  ERROR :  
+20.02.2018  8:40:05  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  8:41:29  :  ERROR :  
+20.02.2018  8:41:29  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  8:41:30  :  ERROR :  
+20.02.2018  8:41:30  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  8:41:54  :  ERROR :  
+20.02.2018  8:41:54  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  8:41:54  :  ERROR :  
+20.02.2018  8:41:54  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  9:12:52  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:12:52  :  ERROR :  Invalid column name 'DatumOstvarivanjUgovora'.
+20.02.2018  9:12:52  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:12:52  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  9:12:55  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:12:55  :  ERROR :  Invalid column name 'DatumOstvarivanjUgovora'.
+20.02.2018  9:12:55  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:12:55  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  9:13:05  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:13:05  :  ERROR :  Invalid column name 'DatumOstvarivanjUgovora'.
+20.02.2018  9:13:05  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:13:05  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  9:14:01  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:14:01  :  ERROR :  Invalid column name 'DatumOstvarivanjUgovora'.
+20.02.2018  9:14:01  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:14:01  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  9:40:04  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:40:04  :  ERROR :  Invalid column name 'DatumOstvarivanjUgovora'.
+20.02.2018  9:40:04  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:40:04  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  9:40:21  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:40:21  :  ERROR :  Invalid column name 'DatumOstvarivanjUgovora'.
+20.02.2018  9:40:21  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:40:21  :  ERROR :  Object reference not set to an instance of an object.
+20.02.2018  9:42:11  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID
+20.02.2018  9:42:11  :  ERROR :  Object cannot be cast from DBNull to other types.
+20.02.2018  9:44:55  :  ERROR :  INSERT INTO [Proizvod] ([NazivProizvoda], [Prodaja], [Renta],[DuzinaUgovora], [ZaradaOdProdaje],[ZaradaOdRente],[FirmaID],[DatumOstvarivanjaUgovora]) VALUES (N'c227',N'True',N'False',N'0',N'1',N'0',N'34',N'20.2.2018 9:44:55')
+20.02.2018  9:44:55  :  ERROR :  The conversion of a nvarchar data type to a smalldatetime data type resulted in an out-of-range value.
+The statement has been terminated.
+20.02.2018  9:46:45  :  ERROR :  INSERT INTO [Proizvod] ([NazivProizvoda], [Prodaja], [Renta],[DuzinaUgovora], [ZaradaOdProdaje],[ZaradaOdRente],[FirmaID],[DatumOstvarivanjaUgovora]) VALUES (N'227',N'True',N'False',N'0',N'1',N'0',N'32',N'20.2.2018 9:45:34')
+20.02.2018  9:46:45  :  ERROR :  The conversion of a nvarchar data type to a smalldatetime data type resulted in an out-of-range value.
+The statement has been terminated.
+20.02.2018  12:48:00  :  ERROR :  UPDATE [Proizvod] SET NazivProizvoda='bizhub C227', Prodaja='False', Renta='True',DuzinaUgovora='36', ZaradaOdProdaje='0', ZaradaOdRente='100',DatumOstvarivanjaUgovora='20.2.2018 12:47:57', FirmaID='-1' WHERE ProizvodID = 14
+20.02.2018  12:48:00  :  ERROR :  The conversion of a varchar data type to a smalldatetime data type resulted in an out-of-range value.
+The statement has been terminated.
+20.02.2018  12:48:15  :  ERROR :  UPDATE [Proizvod] SET NazivProizvoda='bizhub C227', Prodaja='False', Renta='True',DuzinaUgovora='36', ZaradaOdProdaje='0', ZaradaOdRente='101',DatumOstvarivanjaUgovora='20.2.2018 12:48:13', FirmaID='-1' WHERE ProizvodID = 14
+20.02.2018  12:48:15  :  ERROR :  The conversion of a varchar data type to a smalldatetime data type resulted in an out-of-range value.
+The statement has been terminated.
+20.02.2018  12:49:00  :  ERROR :  UPDATE [Proizvod] SET NazivProizvoda='bizhub C227', Prodaja='False', Renta='True',DuzinaUgovora='36', ZaradaOdProdaje='0', ZaradaOdRente='101',DatumOstvarivanjaUgovora='20.2.2018 12:48:29', FirmaID='-1' WHERE ProizvodID = 14
+20.02.2018  12:49:00  :  ERROR :  The conversion of a varchar data type to a smalldatetime data type resulted in an out-of-range value.
+The statement has been terminated.
+20.02.2018  13:14:32  :  ERROR :  INSERT INTO [Proizvod] ([NazivProizvoda], [Prodaja], [Renta],[DuzinaUgovora], [ZaradaOdProdaje],[ZaradaOdRente],[FirmaID],[DatumOstvarivanjaUgovora]) VALUES (N'227',N'True',N'False',N'0',N'1',N'0',N'31',N'20. februar 2018')
+20.02.2018  13:14:32  :  ERROR :  Conversion failed when converting character string to smalldatetime data type.
+21.02.2018  11:35:40  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2016 0:00:00 and 21.2.2018 11:35:31
+21.02.2018  11:35:40  :  ERROR :  Incorrect syntax near '.2016'.
+21.02.2018  11:35:40  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2016 0:00:00 and 21.2.2018 11:35:31
+21.02.2018  11:35:40  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:35:46  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2016 0:00:00 and 14.2.2018 11:35:31
+21.02.2018  11:35:46  :  ERROR :  Incorrect syntax near '.2016'.
+21.02.2018  11:35:46  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2016 0:00:00 and 14.2.2018 11:35:31
+21.02.2018  11:35:46  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:35:48  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2016 0:00:00 and 14.2.2018 11:35:31
+21.02.2018  11:35:48  :  ERROR :  Incorrect syntax near '.2016'.
+21.02.2018  11:35:48  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2016 0:00:00 and 14.2.2018 11:35:31
+21.02.2018  11:35:48  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:38:38  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:38  :  ERROR :  Incorrect syntax near '.2017'.
+21.02.2018  11:38:38  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:38  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:38:40  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:40  :  ERROR :  Incorrect syntax near '.2017'.
+21.02.2018  11:38:40  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:40  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:38:40  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:40  :  ERROR :  Incorrect syntax near '.2017'.
+21.02.2018  11:38:41  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:41  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:38:41  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:41  :  ERROR :  Incorrect syntax near '.2017'.
+21.02.2018  11:38:41  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:41  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:38:41  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:41  :  ERROR :  Incorrect syntax near '.2017'.
+21.02.2018  11:38:41  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:41  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:38:41  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:41  :  ERROR :  Incorrect syntax near '.2017'.
+21.02.2018  11:38:41  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:41  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:38:51  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:51  :  ERROR :  Incorrect syntax near '.2017'.
+21.02.2018  11:38:51  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 21.2.2017 10:59:00 and 20.2.2018 11:38:34
+21.02.2018  11:38:51  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:40:30  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 2017-02-21 10:59:00 and 2018-02-21 11:40:26
+21.02.2018  11:40:30  :  ERROR :  Incorrect syntax near '10'.
+21.02.2018  11:40:30  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 2017-02-21 10:59:00 and 2018-02-21 11:40:26
+21.02.2018  11:40:30  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:40:49  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 2017-02-21 10:59:00 and 2018-02-21 11:40:46
+21.02.2018  11:40:49  :  ERROR :  Incorrect syntax near '10'.
+21.02.2018  11:40:50  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 2017-02-21 10:59:00 and 2018-02-21 11:40:46
+21.02.2018  11:40:50  :  ERROR :  Object reference not set to an instance of an object.
+21.02.2018  11:42:11  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 2017-02-21 10:59:00 and 2018-02-21 11:40:46
+21.02.2018  11:42:11  :  ERROR :  Incorrect syntax near '10'.
+21.02.2018  11:42:11  :  ERROR :   SELECT Firma.FirmaID, NazivFirme, Djelatnost, BrojZaposlenih, KontaktOsoba,BrojTelefona, Pozvan, Cekanje, UgovorOstvaren, Zavrseno, Napomena, ProizvodID,NazivProizvoda,Prodaja,Renta,DuzinaUgovora,DatumOstvarivanjaUgovora,ZaradaOdProdaje,ZaradaOdRente FROM Proizvod inner join Firma on Firma.FirmaID = Proizvod.FirmaID WHERE DatumOstvarivanjaUgovora between 2017-02-21 10:59:00 and 2018-02-21 11:40:46
+21.02.2018  11:42:11  :  ERROR :  Object reference not set to an instance of an object.

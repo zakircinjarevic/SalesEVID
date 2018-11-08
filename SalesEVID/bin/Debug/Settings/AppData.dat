@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<SQLSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Server>127.0.0.1</Server>
+  <Database>SalesEVID</Database>
+  <Username>admin</Username>
+  <Password>admin</Password>
+</SQLSettings>

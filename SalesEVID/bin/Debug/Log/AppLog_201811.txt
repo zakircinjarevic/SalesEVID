@@ -1,0 +1,51 @@
+######### SolumaScanService - Log File Started @ 7.11.2018. 17:37:29 #########
+07.11.2018  17:37:29  :  ERROR :  
+07.11.2018  17:37:29  :  ERROR :  Login failed for user 'sa'. Reason: The account is disabled.
+07.11.2018  17:37:29  :  ERROR :  
+07.11.2018  17:37:29  :  ERROR :  Object reference not set to an instance of an object.
+07.11.2018  17:37:43  :  ERROR :   SELECT * FROM Logins
+07.11.2018  17:37:43  :  ERROR :  Invalid object name 'Logins'.
+07.11.2018  17:37:43  :  ERROR :   SELECT * FROM Logins
+07.11.2018  17:37:43  :  ERROR :  Object reference not set to an instance of an object.
+07.11.2018  17:52:04  :  ERROR :   SELECT * FROM Logins
+07.11.2018  17:52:04  :  ERROR :  Invalid object name 'Logins'.
+07.11.2018  17:52:04  :  ERROR :   SELECT * FROM Logins
+07.11.2018  17:52:04  :  ERROR :  Object reference not set to an instance of an object.
+07.11.2018  17:55:33  :  ERROR :   SELECT * FROM Logins
+07.11.2018  17:55:33  :  ERROR :  Invalid object name 'Logins'.
+07.11.2018  17:55:33  :  ERROR :   SELECT * FROM Logins
+07.11.2018  17:55:33  :  ERROR :  Object reference not set to an instance of an object.
+07.11.2018  18:00:28  :  ERROR :  INSERT INTO [Firma] ([NazivFirme], [Djelatnost], [BrojZaposlenih], [KontaktOsoba], [BrojTelefona], [Pozvan], [Cekanje], [UgovorOstvaren], [Zavrseno], [Napomena]) VALUES (N'Testna Firma',N'Testiranje',N'20',N'Sefik',N'061111111',N'False',N'False',N'False',N'False',N'Dobra firma')
+07.11.2018  18:00:28  :  ERROR :  Cannot insert the value NULL into column 'FirmaID', table 'SalesEVID.dbo.Firma'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+07.11.2018  18:09:49  :  ERROR :  INSERT INTO [Firma] ([NazivFirme], [Djelatnost], [BrojZaposlenih], [KontaktOsoba], [BrojTelefona], [Pozvan], [Cekanje], [UgovorOstvaren], [Zavrseno], [Napomena]) VALUES ('d','d','0','d','d','False','False','False','False','')
+07.11.2018  18:09:49  :  ERROR :  Cannot insert the value NULL into column 'FirmaID', table 'SalesEVID.dbo.Firma'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+08.11.2018  14:33:43  :  ERROR :  
+08.11.2018  14:33:43  :  ERROR :  Login failed for user 'admin'.
+08.11.2018  14:33:43  :  ERROR :  
+08.11.2018  14:33:43  :  ERROR :  Object reference not set to an instance of an object.
+08.11.2018  14:55:39  :  ERROR :   SELECT * FROM Customer WHERE Waiting = 1
+08.11.2018  14:55:39  :  ERROR :  FirmaId
+08.11.2018  14:55:41  :  ERROR :   SELECT Customer.CustomerID, CustomerName, WorkDescription, NumberOfEmployees, ContactPerson,PhoneNumber, Called, Waiting, Contract, Done, Notes, ProductID,ProductName,Sale,Rent,ContractDuration,DateOfContract,SaleIncome,RentIncome FROM Products inner join Customer on Customer.CustomerID = Product.CustomerID
+08.11.2018  14:55:41  :  ERROR :  The multi-part identifier "Product.CustomerID" could not be bound.
+08.11.2018  14:55:41  :  ERROR :   SELECT Customer.CustomerID, CustomerName, WorkDescription, NumberOfEmployees, ContactPerson,PhoneNumber, Called, Waiting, Contract, Done, Notes, ProductID,ProductName,Sale,Rent,ContractDuration,DateOfContract,SaleIncome,RentIncome FROM Products inner join Customer on Customer.CustomerID = Product.CustomerID
+08.11.2018  14:55:42  :  ERROR :  Object reference not set to an instance of an object.
+08.11.2018  14:56:55  :  ERROR :   SELECT * FROM Customer WHERE Waiting = 1
+08.11.2018  14:56:55  :  ERROR :  FirmaId
+08.11.2018  14:57:45  :  ERROR :   SELECT Customer.CustomerID, CustomerName, WorkDescription, NumberOfEmployees, ContactPerson,PhoneNumber, Called, Waiting, Contract, Done, Notes, ProductID,ProductName,Sale,Rent,ContractDuration,DateOfContract,SaleIncome,RentIncome FROM Products inner join Customer on Customer.CustomerID = Product.CustomerID
+08.11.2018  14:57:45  :  ERROR :  The multi-part identifier "Product.CustomerID" could not be bound.
+08.11.2018  14:57:45  :  ERROR :   SELECT Customer.CustomerID, CustomerName, WorkDescription, NumberOfEmployees, ContactPerson,PhoneNumber, Called, Waiting, Contract, Done, Notes, ProductID,ProductName,Sale,Rent,ContractDuration,DateOfContract,SaleIncome,RentIncome FROM Products inner join Customer on Customer.CustomerID = Product.CustomerID
+08.11.2018  14:57:45  :  ERROR :  Object reference not set to an instance of an object.
+08.11.2018  14:57:45  :  ERROR :   SELECT Customer.CustomerID, CustomerName, WorkDescription, NumberOfEmployees, ContactPerson,PhoneNumber, Called, Waiting, Contract, Done, Notes, ProductID,ProductName,Sale,Rent,ContractDuration,DateOfContract,SaleIncome,RentIncome FROM Products inner join Customer on Customer.CustomerID = Product.CustomerID
+08.11.2018  14:57:45  :  ERROR :  The multi-part identifier "Product.CustomerID" could not be bound.
+08.11.2018  14:57:45  :  ERROR :   SELECT Customer.CustomerID, CustomerName, WorkDescription, NumberOfEmployees, ContactPerson,PhoneNumber, Called, Waiting, Contract, Done, Notes, ProductID,ProductName,Sale,Rent,ContractDuration,DateOfContract,SaleIncome,RentIncome FROM Products inner join Customer on Customer.CustomerID = Product.CustomerID
+08.11.2018  14:57:45  :  ERROR :  Object reference not set to an instance of an object.
+08.11.2018  14:57:52  :  ERROR :   SELECT Customer.CustomerID, CustomerName, WorkDescription, NumberOfEmployees, ContactPerson,PhoneNumber, Called, Waiting, Contract, Done, Notes, ProductID,ProductName,Sale,Rent,ContractDuration,DateOfContract,SaleIncome,RentIncome FROM Products inner join Customer on Customer.CustomerID = Product.CustomerID WHERE DateOfContract between '2017-02-21 10:59:00' and '2018-11-08 02:57:45'
+08.11.2018  14:57:52  :  ERROR :  The multi-part identifier "Product.CustomerID" could not be bound.
+08.11.2018  14:57:52  :  ERROR :   SELECT Customer.CustomerID, CustomerName, WorkDescription, NumberOfEmployees, ContactPerson,PhoneNumber, Called, Waiting, Contract, Done, Notes, ProductID,ProductName,Sale,Rent,ContractDuration,DateOfContract,SaleIncome,RentIncome FROM Products inner join Customer on Customer.CustomerID = Product.CustomerID WHERE DateOfContract between '2017-02-21 10:59:00' and '2018-11-08 02:57:45'
+08.11.2018  14:57:52  :  ERROR :  Object reference not set to an instance of an object.
+08.11.2018  15:21:28  :  ERROR :  INSERT INTO [Product] ([NazivProizvoda], [Sale], [Rent],[ContractDuration], [SaleIncome],[RentIncome],[CustomerID],[DateOfContract]) VALUES ('printer','True','False','0','2000','0','7','2018-11-08 03:21:28')
+08.11.2018  15:21:28  :  ERROR :  Invalid object name 'Product'.
+08.11.2018  15:22:07  :  ERROR :  INSERT INTO [Products] ([NazivProizvoda], [Sale], [Rent],[ContractDuration], [SaleIncome],[RentIncome],[CustomerID],[DateOfContract]) VALUES ('printer','True','False','0','2000','0','7','2018-11-08 03:22:07')
+08.11.2018  15:22:07  :  ERROR :  Invalid column name 'NazivProizvoda'.
